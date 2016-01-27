@@ -1,7 +1,7 @@
 package com.company.Planes;
 
 /**
- * Created by Pasha on 25.01.2016.
+ * Created by Pasha on 26.01.2016.
  */
 public class Plane {
 
